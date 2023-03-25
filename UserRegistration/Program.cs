@@ -5,8 +5,8 @@
         static void Main(string[] args)
         {
             //Console.WriteLine("Welcome to MoodAnalyser Reflection");
-            FirstName.First_Name();
-        
+            //FirstName.First_Name();
+            LastName.Last_Name();
         }
     }
 }
